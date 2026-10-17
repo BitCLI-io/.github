@@ -29,8 +29,8 @@ btc cvd div 15m     # Order flow: Bearish/Bullish CVD divergence
 
 We are building an open ecosystem for algorithmic traders, quants, and AI agents.
 
-- 🤖 **[bitcli-mcp-server](#)** — Official Model Context Protocol (MCP) server. Connect Claude Desktop, Cursor, or your autonomous AI agents directly to our real-time crypto radars.
-- 🔗 **[bitcli-tv-webhooks](#)** — Ready-to-use PineScript templates and JSON payloads for routing TradingView signals to Telegram via BitCLI gateway.
+- 🤖 **[bitcli-mcp-server](https://github.com/BitCLI-io/bitcli-mcp-server)** — Official Model Context Protocol (MCP) server. Connect Claude Desktop, Cursor, or your autonomous AI agents directly to our real-time crypto radars.
+- 🔗 **[bitcli-tv-webhooks](https://github.com/BitCLI-io/bitcli-tv-webhooks)** — Ready-to-use PineScript templates and JSON payloads for routing TradingView signals to Telegram via BitCLI gateway.
 - 📦 **[bitcli-python-sdk](#)** *(Coming Soon)* — Official Python wrapper for the BitCLI M2M API.
 
 <br>
