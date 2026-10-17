@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BitCLI-io/.github/assets/YOUR_IMAGE_ID_HERE" alt="BitCLI Logo" width="120" />
+  <img src="https://github.com/BitCLI-io/.github/assets/9b2cb74f-37a5-4ee6-b348-1097f75c2d6c" alt="BitCLI Logo" width="120" />
   <h1>BitCLI — Ultra-Fast Crypto Alerts Engine</h1>
   <p><b>Tick-by-tick order flow, liquidations, and funding rate analytics right in Telegram.</b></p>
 
