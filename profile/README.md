@@ -1,4 +1,3 @@
-<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/60199b8e-bd84-4f11-bfad-f6db4fb6da67" />
 <div align="center">
   <img src="https://github.com/user-attachments/assets/60199b8e-bd84-4f11-bfad-f6db4fb6da67" alt="BitCLI Logo" width="120" />
   <h1>BitCLI — Ultra-Fast Crypto Alerts Engine</h1>
