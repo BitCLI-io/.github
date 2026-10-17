@@ -23,3 +23,19 @@ sol 3% 5m           # Velocity alert: ±3% jump within 5 minutes
 * vol 15m x3        # Whale radar: Any coin volume spikes 3x over SMA20
 * liq z3            # Anomaly radar: Liquidation cascade Z-Score > 3
 btc cvd div 15m     # Order flow: Bearish/Bullish CVD divergence
+```
+
+## 🛠 Repositories & SDKs
+
+We are building an open ecosystem for algorithmic traders, quants, and AI agents.
+
+- 🤖 **[bitcli-mcp-server](#)** — Official Model Context Protocol (MCP) server. Connect Claude Desktop, Cursor, or your autonomous AI agents directly to our real-time crypto radars.
+- 🔗 **[bitcli-tv-webhooks](#)** — Ready-to-use PineScript templates and JSON payloads for routing TradingView signals to Telegram via BitCLI gateway.
+- 📦 **[bitcli-python-sdk](#)** *(Coming Soon)* — Official Python wrapper for the BitCLI M2M API.
+
+<br>
+
+<div align="center">
+  <i>"Don't chase the candle close. Trade the tick."</i><br>
+  Contact: <a href="mailto:team@bitcli.io">team@bitcli.io</a> | B2B & White-Label: <a href="mailto:b2b@bitcli.io">b2b@bitcli.io</a>
+</div>
